@@ -5,7 +5,6 @@
 │   ├── bootstrap-responsive.css
 │   └── styles.css
 ├── humans.txt
-├── humans.txt~
 ├── img
 │   ├── glyphicons-halflings.png
 │   └── glyphicons-halflings-white.png
