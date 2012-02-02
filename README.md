@@ -1,4 +1,5 @@
 <pre>
+
 ├── css
 │   ├── bootstrap.css
 │   ├── bootstrap-responsive.css
@@ -25,12 +26,11 @@
 │   │   ├── bootstrap-tab.js
 │   │   ├── bootstrap-tooltip.js
 │   │   ├── bootstrap-transition.js
-│   │   ├── bootstrap-typeahead.js                                                                                                  
-│   │   ├── plugins.js                                                                                                              
-│   │   └── script.js                                                                                                               
-│   └── script.js                                                                                                                   
-├── README.md                                                                                                                       
-└── robots.txt                                                                                                                      
-                                                                                                                                    
+│   │   ├── bootstrap-typeahead.js 
+│   │   ├── plugins.js
+│   │   └── script.js
+│   └── script.js
+├── README.md 
+└── robots.txt 
 5 directories, 27 files    
 </pre>
